@@ -32,16 +32,6 @@ nvm use 16
 node -v   # should print v16.x
 ```
 
-### 2. Clone and install
-
-```bash
-git clone https://github.com/deveshmehra096/Shop-me-main.git
-cd Shop-me-main
-npm install
-```
-
-`npm install` prints many deprecation and audit warnings because the dependencies are old. This is expected and safe to ignore.
-
 ### 3. Start the app
 
 ```bash
